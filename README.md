@@ -1,2 +1,2 @@
-# secret--chamber-chrome-extension
-It is a chrome extension which display a new Jokes in text format on every click .Made just for testing purposes. Updated
+# Dad-Jokes-Chrome-Extension
+You click on this google chrome extension to get a random Joke every time 😂
